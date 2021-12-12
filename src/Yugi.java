@@ -1,10 +1,12 @@
 
 public class Yugi {
 	private void Yugii() {
-		// TODO Auto-generated method stub
+		System.out.println("yugi6");
+		System.out.println("yugi7ss");
 
 	}
 	public static void main(String[] args) {
-		
+		Yugi y = new Yugi();
+		y.Yugii();
 	}
 }

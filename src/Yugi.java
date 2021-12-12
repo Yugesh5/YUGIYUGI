@@ -1,7 +1,8 @@
 
 public class Yugi {
 	private void Yugii() {
-		// TODO Auto-generated method stub
+		System.out.println("yug");
+		System.out.println("yUGEAH");
 
 	}
 	public static void main(String[] args) {
